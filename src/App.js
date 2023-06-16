@@ -1,10 +1,12 @@
 import "./App.css";
+import Weather from "./Weather";
 
 export default function App() {
   return (
     <div className="App">
       <div className="container">
         <h1>Weather App</h1>
+        <Weather />
         <footer>
           <p>
             This website was coded by Simiso Sesedza and it is{" "}
@@ -13,7 +15,7 @@ export default function App() {
               target="_blank"
               rel="noreferrer"
             >
-              Open-sourced
+              Open-sourced on GitHub
             </a>
           </p>
         </footer>
