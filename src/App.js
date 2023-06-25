@@ -15,6 +15,14 @@ export default function App() {
               rel="noreferrer"
             >
               Open-sourced on GitHub
+            </a>{" "}
+            and{" "}
+            <a
+              href="https://hilarious-buttercream-59d551.netlify.app/"
+              target="_blank"
+              rel="noreferrer"
+            >
+              hosted on Netlify
             </a>
           </p>
         </footer>
